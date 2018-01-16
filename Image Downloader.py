@@ -1,7 +1,7 @@
 import sys
 import urllib.request
 
-#http://i3.ytimg.com/vi/J---aiyznGQ/mqdefault.jpg
+#https://www.google.co.in/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
 try:
     url = input("Enter Image URL")
     fileName = url.split("/")[-1]
