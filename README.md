@@ -1,3 +1,6 @@
+# FunWithPython
+learning python with some practicals
+
 <div id="preview1" class="g-b g-b--t1of2 split split-preview">
   <div id="preview" class="preview-html" preview="" debounce="150"><p>C:\Users\KnowCode\Desktop\Python Program&gt;python "Age <a href="http://calculator.py">calculator.py</a>"<br>
 Enter Birth date (1994-8-5): 1993-4-3<br>
