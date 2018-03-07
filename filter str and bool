@@ -1,0 +1,14 @@
+data = ['Hello', 'World', 1, 12.03, 92, False]
+
+
+def findStrAndBool(data):
+    if type(data) is str or type(data) is bool:
+        return True
+    else:
+        return False
+
+
+res = filter(findStrAndBool, data)
+for i in res:
+    print(i)
+

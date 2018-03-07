@@ -1,0 +1,13 @@
+alpha = ['a', 'b', 'c', 'd', 'e','u']
+
+
+def findvowel(alphabats):
+    vowel = ['a', 'e', 'i', 'o', 'u']
+    if alphabats in vowel:
+        return True
+    else:
+        return False
+
+filterVowel = filter(findvowel,alpha)
+for v in filterVowel:
+    print(v)
